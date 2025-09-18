@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class1 {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: blue;
+    font-size: 32px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
+}
+
+.third{
+    font-size: 24px;
+}
